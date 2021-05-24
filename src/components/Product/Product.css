@@ -1,0 +1,19 @@
+.product{
+    display: flex;
+    border-bottom: 1px solid black;
+    padding-bottom: 10px;
+}
+.product h3{
+    color: blue;
+}
+.main-button{
+    background-color: goldenrod;
+    width: 120px;
+    height: 30px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.product-detail{
+    padding-left: 20px;
+}
